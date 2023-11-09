@@ -1,0 +1,13 @@
+C:\Users\soupi\Documents\developpement-perso\CleanAPI\CleanAPI.Domain\bin\Debug\net7.0\CleanAPI.Domain.deps.json
+C:\Users\soupi\Documents\developpement-perso\CleanAPI\CleanAPI.Domain\bin\Debug\net7.0\CleanAPI.Domain.dll
+C:\Users\soupi\Documents\developpement-perso\CleanAPI\CleanAPI.Domain\bin\Debug\net7.0\CleanAPI.Domain.pdb
+C:\Users\soupi\Documents\developpement-perso\CleanAPI\CleanAPI.Domain\obj\Debug\net7.0\CleanAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soupi\Documents\developpement-perso\CleanAPI\CleanAPI.Domain\obj\Debug\net7.0\CleanAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\soupi\Documents\developpement-perso\CleanAPI\CleanAPI.Domain\obj\Debug\net7.0\CleanAPI.Domain.AssemblyInfo.cs
+C:\Users\soupi\Documents\developpement-perso\CleanAPI\CleanAPI.Domain\obj\Debug\net7.0\CleanAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\soupi\Documents\developpement-perso\CleanAPI\CleanAPI.Domain\obj\Debug\net7.0\CleanAPI.Domain.dll
+C:\Users\soupi\Documents\developpement-perso\CleanAPI\CleanAPI.Domain\obj\Debug\net7.0\refint\CleanAPI.Domain.dll
+C:\Users\soupi\Documents\developpement-perso\CleanAPI\CleanAPI.Domain\obj\Debug\net7.0\CleanAPI.Domain.pdb
+C:\Users\soupi\Documents\developpement-perso\CleanAPI\CleanAPI.Domain\obj\Debug\net7.0\ref\CleanAPI.Domain.dll
+C:\Users\soupi\Documents\developpement-perso\CleanAPI\CleanAPI.Domain\bin\Debug\net7.0\CleanAPI.Domain.runtimeconfig.json
+C:\Users\soupi\Documents\developpement-perso\CleanAPI\CleanAPI.Domain\obj\Debug\net7.0\CleanAPI.Domain.genruntimeconfig.cache
